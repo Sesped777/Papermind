@@ -1,0 +1,5 @@
+{
+  "name": "PaperMind",
+  "description": "Un organizador inteligente de papers académicos que utiliza embeddings de alta dimensión y búsqueda kernelizada para encontrar conexiones semánticas entre tus documentos.",
+  "requestFramePermissions": []
+}
