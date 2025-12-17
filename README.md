@@ -2,10 +2,10 @@
 # PaperMind: Inteligencia Colectiva para tus Papers
 
 **PaperMind** es una estación de trabajo avanzada para investigadores y estudiantes que transforma una carpeta de PDFs estáticos en una red de conocimiento interconectada. Utiliza modelos de lenguaje de última generación (Gemini API) y algoritmos de clustering para revelar la estructura semántica de tu librería.
-| Vista de la Librería | Grafo Neuronal | Campo Semántico (SOM) |
+| Vista de la Librería | Grafo Neuronal |Ejemplo de la busqueda semantica |
 | :---: | :---: | :---: |
-| ![Librería](assets/libreria.png) | ![Grafo](assets/grafo.png) | ![Busqueda](assets/Busqueda.png) |
-| *Organización por metadatos y búsqueda semántica.* | *Conexiones entre ideas y análisis de clusters.* | *Topografía del conocimiento y densidad temática.* |
+| ![Librería](assets/libreria.png) | ![Grafo](assets/grafo.png) | ![Busqueda](assets/Buqueda.png) |
+| *Organización por metadatos y búsqueda semántica.* | *Conexiones entre ideas y análisis de clusters.* | *Busqueda en relacion a su parentesco semantico* |
 
 ## Funcionalidades Principales
 
