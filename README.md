@@ -2,6 +2,10 @@
 # PaperMind: Inteligencia Colectiva para tus Papers
 
 **PaperMind** es una estación de trabajo avanzada para investigadores y estudiantes que transforma una carpeta de PDFs estáticos en una red de conocimiento interconectada. Utiliza modelos de lenguaje de última generación (Gemini API) y algoritmos de clustering para revelar la estructura semántica de tu librería.
+| Vista de la Librería | Grafo Neuronal | Campo Semántico (SOM) |
+| :---: | :---: | :---: |
+| ![Librería](https://placehold.co/600x400/0f172a/22d3ee?text=Librería+Inteligente\nOrganización+de+PDFs) | ![Grafo](https://placehold.co/600x400/0f172a/22d3ee?text=Grafo+Neuronal\nClustering+Dinámico) | ![Busqueda](https://placehold.co/600x400/0f172a/22d3ee?text=Campo+Semántico\nMapas+Auto-Organizativos) |
+| *Organización por metadatos y búsqueda semántica.* | *Conexiones entre ideas y análisis de clusters.* | *Topografía del conocimiento y densidad temática.* |
 
 ## Funcionalidades Principales
 
